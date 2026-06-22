@@ -165,7 +165,17 @@ Disabled Mike Davis's account in the Finance OU — simulating an employee offbo
 Re-enabled Mike Davis's account — simulating a return from leave or a reversed offboarding action.
 
 ![Mike Davis re-enabled](https://raw.githubusercontent.com/harunsaglam85/active-directory-home-lab/main/screenshots/Screenshot%202026-06-21%20233947.png)
+### 25. Active Directory Administrative Center
 
+The AD Administrative Center provides a modern, task-based interface for managing the domain — including a built-in password reset tool and global search across all objects in `corp.local`.
+
+![Active Directory Administrative Center](https://raw.githubusercontent.com/harunsaglam85/active-directory-home-lab/main/screenshots/Screenshot%202026-06-21%20234034.png)
+
+### 26. Group Policy Management
+
+Group Policy Management Console showing the `Corp.local` forest — used to create, link, and manage GPOs across the domain.
+
+![Group Policy Management](https://raw.githubusercontent.com/harunsaglam85/active-directory-home-lab/main/screenshots/Screenshot%202026-06-21%20234134.png)
 ## Key Takeaways
 
 This lab covers the foundational skills behind real-world IT support and sysadmin work: every "reset my password," "I can't log in," or "set up a new hire's account" ticket a help desk agent receives is rooted in the Active Directory concepts demonstrated here — OUs, security groups, and account lifecycle management. The PowerShell scripts go a step further, automating repetitive tasks that would otherwise eat up help desk time and introducing audit logging for accountability.
